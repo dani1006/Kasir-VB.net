@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LatihanTugasBesar", "LatihanTugasBesar\LatihanTugasBesar.vbproj", "{02A37B5A-F9D3-465D-8D54-641CA0211611}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupKasir", "SetupKasir\SetupKasir.vdproj", "{B3857C0E-E45A-4660-81CF-EB4464293ACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02A37B5A-F9D3-465D-8D54-641CA0211611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A37B5A-F9D3-465D-8D54-641CA0211611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A37B5A-F9D3-465D-8D54-641CA0211611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A37B5A-F9D3-465D-8D54-641CA0211611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3857C0E-E45A-4660-81CF-EB4464293ACA}.Debug|Any CPU.ActiveCfg = Debug
+		{B3857C0E-E45A-4660-81CF-EB4464293ACA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EC1B326-0C69-4FF1-BD81-DF7532612911}
+	EndGlobalSection
+EndGlobal
